@@ -1,0 +1,1 @@
+Proje Özeti : İngiltere merkezli bir perakende şirketinin 01/12/2009 - 09/12/2011 tarihleri arasındaki online satış işlemlerini içeren veri seti  kullanılarak K-Means yöntemiyle müşteri segmentasyonu oluşturma amaçlanmıştr.
